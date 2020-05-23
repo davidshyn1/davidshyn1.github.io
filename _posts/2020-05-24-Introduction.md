@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Shyn Sung Kuk(신성국)"
 date:   2020-05-24 21:32:40 +0200
 img: 
