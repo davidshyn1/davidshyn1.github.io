@@ -1,14 +1,29 @@
 ---
 layout: post
 title:  "Shyn Sung Kuk(신성국)"
-date:   2017-03-25 21:32:40 +0200
+date:   2020-05-24 21:32:40 +0200
 img:
 description: Hello Everyone! This is a page for OSS practice in SKKU
 categories: jekyll update
 ---
 Hello Everyone! This is a page for OSS practice in SKKU
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The main purpose of this static page is to introduce what I have contributed on [2020-1-OSS-5][Groupreposit] project.
+
+About Me!
+Name : 신성국(Sungkuk Shyn)
+Date of Birth : 1995-06-09
+Major : Global Economics/Computer Science in SKKU (double majored)
+Course : 오픈소스소프트웨어실습(OSS practice) in Computer Science
+Possible Language : C, C++, Python
+
+About the Project!
+Name : word cloud
+links:
+The original page - 
+SKKU team repository -
+My personal repository - 
+More details : 
 
 Jekyll also offers powerful support for code snippets:
 
