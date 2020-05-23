@@ -25,9 +25,9 @@ Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of thi
 - More details : 
 
 
-[Groupreposit] : https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
-[original_page] : https://github.com/amueller/word_cloud
-[personalreposit] : https://github.com/davidshyn1/2020-1-OSS-5
+[Groupreposit]: https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
+[original_page]: https://github.com/amueller/word_cloud
+[personalreposit]: https://github.com/davidshyn1/2020-1-OSS-5
 
 
 
