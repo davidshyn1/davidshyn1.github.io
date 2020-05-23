@@ -3,9 +3,11 @@ layout: post
 title:  "Shyn Sung Kuk(신성국)"
 date:   2020-05-24 21:32:40 +0200
 img: 
-description: Hello Everyone! This is a page for OSS practice in SKKU
+description: Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of this static page is to introduce what I have contributed on wordcloud project.
+categories: jekyll update
+---
 
-The main purpose of this static page is to introduce what I have contributed on [2020-1-OSS-5][Groupreposit] project.
+Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of this static page is to introduce what I have contributed on [2020-1-OSS-5][Groupreposit] project.
 
 About Me!
 Name : 신성국(Sungkuk Shyn)
@@ -24,7 +26,6 @@ More details :
 [Groupreposit] : https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
 [original_page] : https://github.com/amueller/word_cloud
 [personalreposit] : https://github.com/davidshyn1/2020-1-OSS-5
-categories: jekyll update
----
+
 
 
