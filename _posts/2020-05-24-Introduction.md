@@ -7,7 +7,7 @@ description: Hello Everyone! This is a page for OSS practice in SKKU. The main p
 categories: jekyll update
 ---
 
-Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of this static page is to introduce what I have contributed on [2020-1-OSS-5][Groupreposit] project.
+Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of this static page is to introduce what I have contributed on [20-1-SKKU-OSS/2020-1-OSS-5][Groupreposit] project.
 
 # About Me!
 Name : 신성국(Sungkuk Shyn)
@@ -25,9 +25,9 @@ My personal repository - [davidshyn1/2020-1-OSS-5][personalreposit]
 More details : 
 
 
-[Groupreposit] : https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
-[original_page] : https://github.com/amueller/word_cloud
-[personalreposit] : https://github.com/davidshyn1/2020-1-OSS-5
+[20-1-SKKU-OSS/2020-1-OSS-5] : https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
+[amueller/word_cloud] : https://github.com/amueller/word_cloud
+[davidshyn1/2020-1-OSS-5] : https://github.com/davidshyn1/2020-1-OSS-5
 
 
 
