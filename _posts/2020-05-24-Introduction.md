@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "About ME"
+title:  "About this Static Page"
 date:   2020-05-24 21:32:40 +0200
 img: 
 description: Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of this static page is to introduce what I have contributed on wordcloud project.
@@ -25,9 +25,9 @@ Hello Everyone! This is a page for OSS practice in SKKU. The main purpose of thi
 - More details : 
 
 
-[Groupreposit] : https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
-[original_page] : https://github.com/amueller/word_cloud
-[personalreposit] : https://github.com/davidshyn1/2020-1-OSS-5
+[Groupreposit]: https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
+[original_page]: https://github.com/amueller/word_cloud
+[personalreposit]: https://github.com/davidshyn1/2020-1-OSS-5
 
 
 
