@@ -75,14 +75,14 @@ wordcloud 프로젝트가 대형 오픈소스프로젝트임에도 불구하고,
 유용하다고 생각하는 새로운 기능을 추가하고, 원 프로젝트에서 제기된 issue를 활발히 찾아서 문제를 해결해볼 것이다.
 <br><br>
 
-### 5. 학생별 역할 및 활동계획<br>
+### 6. 학생별 역할 및 활동계획<br>
 -위키, 정적페이지 관리 : 안정복, 유광호, 이하은, 신성국, 김희성<br>
 -한글로 구현하는 기능 추가 : 신성국, 김희성<br>
 -정적페이지에 문서화 : 유광호, 안정복, 이하은, 김희성<br>
 -새로운 ISSUE 검색, 새로운 기능 추가 생각 : 유광호, 안정복, 신성국, 이하은<br>
 <br><br>
 
-### 4. Links
+### 7. Links
 * The original page - [amueller/word_cloud][original_page] 
 * SKKU team repository - [20-1-SKKU-OSS/2020-1-OSS-5][Groupreposit]
 * My personal repository - [davidshyn1/2020-1-OSS-5][personalreposit]
