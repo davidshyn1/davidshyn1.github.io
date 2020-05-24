@@ -10,7 +10,7 @@ Hello Everyone! This is a page for OSS practice in SKKU.<br>
 The main purpose of this static page is to introduce what I have contributed on [20-1-SKKU-OSS/2020-1-OSS-5][Groupreposit] project.
 
 # About Me!
-![profile][profile]<br>
+![profile][profile] <br>
 - Name : 신성국(Sungkuk Shyn)
 - Date of Birth : 1995-06-09
 - Major : Global Economics/Computer Science in SKKU (double majored)
