@@ -4,7 +4,6 @@ title: "Word Cloud Project"
 date:   2020-05-24 21:50:40 +0200
 author: "OSS-5"
 description : A little word cloud generator in Python.
-categories: jekyll update
 ---
 
 <br>
