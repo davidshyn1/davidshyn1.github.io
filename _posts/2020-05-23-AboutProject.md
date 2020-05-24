@@ -57,6 +57,11 @@ Word Cloud 프로젝트는 긴 글(문장)을 tokenize 수행하여, 단어 등�
 해당 패키지를 활용하여 wordcloud 코드를 구현하기로 결정하였다.<br>
 <br>
 
+**추가 issue 검색 및 해결방안 모색**<br>
+wordcloud 프로젝트가 대형 오픈소스프로젝트임에도 불구하고, 여전히 많은 issue들과 수정사항이 현재까지도 진행되고 있다.<br>
+대다수는 원 코드 작성자가 직접 해결하였지만, [plural issue][issue2]처럼 완벽하게 해결하지 못한 문제 또한 존재한다.
+이러한 issue들을 추가 검색하여 우리가 직접 해결방안을 모색하는 방법으로 개선해나갈 수도 있다.
+
 #### 프로젝트 활동 계획
 
 **한글로 구현하는 기능 추가** <br>
@@ -92,6 +97,7 @@ Word Cloud 프로젝트는 긴 글(문장)을 tokenize 수행하여, 단어 등�
 [original_page]: https://github.com/amueller/word_cloud
 [personalreposit]: https://github.com/davidshyn1/2020-1-OSS-5
 [issue1]: https://github.com/amueller/word_cloud/issues/238
+[issue2]: https://github.com/amueller/word_cloud/issues/542
 
 
 
