@@ -1,6 +1,6 @@
 # Profile information
-name: GENIUS
-title: SSK
+name: 신성국
+title: GENIUS
 description: > # this means to ignore newlines until "baseurl:"
   The page of Github beginner, but an amazing code reviewer. 
 permalink: ':title/'
