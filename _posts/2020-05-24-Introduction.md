@@ -15,3 +15,5 @@ The main purpose of this static page is to introduce what I have contributed on 
 - Major : Global Economics/Computer Science in SKKU (double majored)
 - Course : 오픈소스소프트웨어실습(OSS practice) in Computer Science
 - Possible Language : C, C++, Python
+
+[Groupreposit]: https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
