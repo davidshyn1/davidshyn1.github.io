@@ -2,11 +2,9 @@
 layout: post
 title: "Word Cloud Project"
 date:   2020-05-24 21:50:40 +0200
-author: "OSS-5"
 description : A little word cloud generator in Python.
 ---
 
-<br>
 
 >A little word cloud generator in Python. Read more about it on the [blog post][blog_post] or the [website][website].<br>
 >The code is tested against Python 2.7, 3.4, 3.5, 3.6 and 3.7. [_(word_cloud README.md)_][README.md]<br>
