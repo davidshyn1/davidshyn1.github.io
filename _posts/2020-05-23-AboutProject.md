@@ -39,14 +39,11 @@ Word Cloud 프로젝트는 긴 글(문장)을 tokenize 수행하여, 단어 등�
 각 언어의 특성에 따라 word cloud가 제대로 수행되지 않을 확률이 높다.<br>
 해당 [issue][issue1]에 의하면 영어 기반의 프로젝트이기에,
 다양한 언어의 특성을 적절하게 반영하지 못하고 있으며 이에 따라 상당 부분 word cloud의 기본 수행능력이 발휘되지 않은 경우 간혹 발생한다.<br>
-한글의 경우, 글자 font를 GmarketSansTTFLight.ttf로 수행하여 진행하면
-다음과 같은 그림을 출력하게 된다.<br>
-
-해당 그림을 통해 나타나는 본 프로젝트의 문제가 드러난다.<br>
+한글의 경우, 글자 font를 GmarketSansTTFLight.ttf로 수행하여 진행하면 본 프로젝트의 문제가 드러난다.<br>
 한글의 문장 특성 중에 '조사'라는 품사는 항상 명사, 형용사, 부사뒤에 붙여서 사용된다는 특성이 있다.
 그래서 한글 자연어처리 과정에서, 조사는 필히 앞에 붙여진 단어와 분리하여 처리되어야 한다.
-하지만 해당 그림에서 볼 수 있듯, 단어들의 빈도를 측정할 때, 조사를 포함한 하나의 어절로 구분하여 빈도를 측정하게 된다.
-그렇게 되면, 위의 그림처럼 '소프트웨어는', '소프트웨어가'라는 두 어절은 사실상 같은 '소프트웨어' 단어를 표현한 것인데
+하지만 본 프로젝트 코드대로 단어 등장 빈도를 측정할 때, 조사를 포함한 하나의 어절로 구분하여 빈도를 측정하게 된다.
+그렇게 되면, '(명사)는', '(명사)가'라는 두 어절은 사실상 같은 '(명사)' 단어를 표현한 것인데
 따로 구분하여 wordcloud에 표시된다.<br>
 
 이는 확실히, 본 코드에 한글NLP 기능이 없기 때문에 나타난 현상이라 볼 수 있다.
@@ -94,7 +91,7 @@ Word Cloud 프로젝트는 긴 글(문장)을 tokenize 수행하여, 단어 등�
 [Groupreposit]: https://github.com/20-1-SKKU-OSS/2020-1-OSS-5
 [original_page]: https://github.com/amueller/word_cloud
 [personalreposit]: https://github.com/davidshyn1/2020-1-OSS-5
-
+[issue1]: https://github.com/amueller/word_cloud/issues/238
 
 
 
