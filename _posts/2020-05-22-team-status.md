@@ -39,7 +39,7 @@ description : Team Status until now
 ### 5/21~5/24 : 개인별 활동 진행
 - readme, wiki, 정적페이지 관리 및 수정, 추가 진행
 - issue 탐색 후 해당 issue에 대한 해결방안에 대하여 팀 [repository][repository]에서 토론 진행
-- 미완성 korean version의 wordcloud 코드 commit[commit]
+- 미완성 korean version의 wordcloud 코드 [pull-request][commit]
 
 [konlpy]: https://github.com/konlpy/konlpy
 [repository]: https://github.com/20-1-SKKU-OSS/2020-1-OSS-5/issues/2
