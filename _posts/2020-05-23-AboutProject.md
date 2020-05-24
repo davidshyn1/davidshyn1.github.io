@@ -2,7 +2,7 @@
 layout: post
 title: "Word Cloud Project"
 date:   2020-05-23 21:50:40 +0200
-description : A little word cloud generator in Python.
+description : 프로젝트 소개, 프로젝트 선정 동기, 개선방향성 및 활동계획 제시
 ---
 
 # About the Project!
