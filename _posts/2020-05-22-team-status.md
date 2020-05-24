@@ -12,9 +12,10 @@ description : Team Status until now
 - OSS Project를 검색하기 전, 팀원들의 사용가능 프로그램언어를 미리 파악하여, OSS Project 선정과정에서 난이도 조절을 할 수 있도록 하였습니다.
 - 5명 모두 c언어를 다룰 수 있어, 먼저 c언어 위주의 프로젝트를 우선으로 탐색하기로 하였고, 파이썬 중심의 프로젝트도 겸해서 탐색하는 것으로 하였습니다.
 
-### 5/9 : 개인별 선정한 OSS Project 공유, 팀 OSS project 선정(Python Games, Minecraft)
+### 5/9 : 개인별 선정한 OSS Project 공유, 팀 OSS project 선정
 - 개인별 선정한 OSS project 공유 및 팀 OSS project 선정을 위한 회의를 진행하였습니다.
 - 팀원들이 비교적 쉽게 프로젝트에 기여할 수 있고, 활용도가 높은 프로젝트를 우선으로 하여 선정하였습니다.
+- 교육용 MineCraft(C언어기반), Pygames(Python기반)를 팀 OSS project로 선정하였습니다.
 - 하지만, 여전히 난이도가 높은 프로젝트라고 판단하여, 일부는 파이썬 언어를 다루지 못하지만, 본 팀이 시도할만 한 좋은 프로젝트가 많은 파이썬 중심 프로젝트로 다시 한번 탐색하기로 하였습니다.
 
 ### 5/13 : 팀 OSS project 최종 선정 및 기여 방식 회의
